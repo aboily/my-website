@@ -16,3 +16,7 @@ THis was edited locally
 ## Purpose
 
 this file is just a readme file. 
+
+## Comment débuter l'exécution de ce programme.
+
+Vous avez seulement besoin de l'installer sur votre ordinateur.
